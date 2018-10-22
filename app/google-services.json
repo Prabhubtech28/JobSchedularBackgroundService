@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "193042559924",
+    "firebase_url": "https://drivertraccar.firebaseio.com",
+    "project_id": "drivertraccar",
+    "storage_bucket": "drivertraccar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193042559924:android:e47e8aeb951ceb1c",
+        "android_client_info": {
+          "package_name": "in.wowtruck.backgroundservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193042559924-vkks72jhf8ftcmfg0n28hiarg2c7g1pm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.wowtruck.backgroundservices",
+            "certificate_hash": "7e74ceba8e532584a1e73ada488988b101e88b68"
+          }
+        },
+        {
+          "client_id": "193042559924-ecj3t3ih59jgpccnd2pti98luqaq28kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt17eDf9kwJCQdjAFiv8ZNb1cYzw8d278"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193042559924-ecj3t3ih59jgpccnd2pti98luqaq28kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193042559924:android:b2f771e99f9bed02",
+        "android_client_info": {
+          "package_name": "in.wowtruck.driverlocationupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193042559924-un725j06r78meklplim4ofarl3u32q7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.wowtruck.driverlocationupdate",
+            "certificate_hash": "7e74ceba8e532584a1e73ada488988b101e88b68"
+          }
+        },
+        {
+          "client_id": "193042559924-ecj3t3ih59jgpccnd2pti98luqaq28kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt17eDf9kwJCQdjAFiv8ZNb1cYzw8d278"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193042559924-ecj3t3ih59jgpccnd2pti98luqaq28kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193042559924:android:ceb185416d4d3162",
+        "android_client_info": {
+          "package_name": "in.wowtruck.getlocationservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193042559924-h037324flfid9gq1mefj7a50mg7p6q30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.wowtruck.getlocationservice",
+            "certificate_hash": "7e74ceba8e532584a1e73ada488988b101e88b68"
+          }
+        },
+        {
+          "client_id": "193042559924-ecj3t3ih59jgpccnd2pti98luqaq28kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt17eDf9kwJCQdjAFiv8ZNb1cYzw8d278"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193042559924-ecj3t3ih59jgpccnd2pti98luqaq28kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193042559924:android:c288ed9150537cda",
+        "android_client_info": {
+          "package_name": "in.wowtruck.jobschedulerexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193042559924-56ngtqr0bp90fb0u71tdqk4cr6bbsnfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.wowtruck.jobschedulerexample",
+            "certificate_hash": "7e74ceba8e532584a1e73ada488988b101e88b68"
+          }
+        },
+        {
+          "client_id": "193042559924-ecj3t3ih59jgpccnd2pti98luqaq28kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt17eDf9kwJCQdjAFiv8ZNb1cYzw8d278"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193042559924-ecj3t3ih59jgpccnd2pti98luqaq28kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193042559924:android:b1c7194c699bfa25",
+        "android_client_info": {
+          "package_name": "org.traccar.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193042559924-n3colq0v1f533odip5ghti7n2eglsv1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.traccar.client",
+            "certificate_hash": "7e74ceba8e532584a1e73ada488988b101e88b68"
+          }
+        },
+        {
+          "client_id": "193042559924-ecj3t3ih59jgpccnd2pti98luqaq28kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt17eDf9kwJCQdjAFiv8ZNb1cYzw8d278"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193042559924-ecj3t3ih59jgpccnd2pti98luqaq28kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
