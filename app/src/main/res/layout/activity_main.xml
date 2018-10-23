@@ -7,18 +7,28 @@
     android:layout_height="match_parent"
     android:gravity="center_horizontal"
     android:orientation="vertical"
+    android:padding="20dp"
     tools:context="in.wowtruck.jobschedulerexample.MainActivity">
+
+    <EditText
+        android:id="@+id/driver_id_ET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="Enter ID"/>
 
    <Button
        android:id="@+id/start_job"
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
+       android:layout_marginTop="20dp"
        android:text="start job"/>
 
     <Button
         android:id="@+id/stop_job"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:visibility="gone"
         android:text="stop job"/>
 
 </LinearLayout>

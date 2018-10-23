@@ -82,6 +82,17 @@ public class TrackingController implements PositionProvider.PositionListener, Ne
         }
         networkManager.start();
     }
+
+    public void stop() {
+        networkManager.stop();
+        try {
+            positionProvider.stopUpdates();
+        } catch (SecurityException e) {
+            Log.w(TAG, e);
+        }
+        handler.removeCallbacksAndMessages(null);
+    }
+
     @Override
     public void onPositionUpdate(Position position) {
         if (position != null) {
@@ -213,18 +224,6 @@ public class TrackingController implements PositionProvider.PositionListener, Ne
             }
         });
 
-//        RequestManager.sendRequestAsync(request, new RequestManager.RequestHandler() {
-//            @Override
-//            public void onComplete(boolean success) {
-//                if (success) {
-//                    delete(position);
-//                } else {
-//                    StatusActivity.addMessage(context.getString(R.string.status_send_fail));
-//                    retry();
-//                }
-//                unlock();
-//            }
-//        });
     }
 
     private void retry() {
